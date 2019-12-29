@@ -26,7 +26,7 @@ Please refer the doc: https://github.com/nginxinc/kubernetes-ingress/blob/master
 #kubectl create -f nginx-service.yaml
 
 7)verify the deployed components with help of below command, everything should
-be running successfully. if not, check the reason of the issue and do the
+be running successfuly. if not , check the reason of the issue and do the
 necessary changes
 #kubectl get all -n nginx-ingress
 
